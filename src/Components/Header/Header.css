@@ -1,0 +1,6 @@
+  .header {
+    color: white;
+    background-image: linear-gradient(to right, #8E2DE2, hsl(218, 81%, 59%), #4A00E0);
+    box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);
+    padding: 20px;
+  }
